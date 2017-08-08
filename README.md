@@ -3,6 +3,8 @@ Apidoc Dark (Slate) Theme
 
 This is a dark template of [apidoc](https://github.com/apidoc/apidoc) inspired on slate theme
 
+![Screenshot](https://raw.githubusercontent.com/jodacame/apidocjs-template-dark-Slate-Inspiration-/master/Screenshot.png)
+
 
 # Usage
 
