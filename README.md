@@ -13,7 +13,7 @@ Clone this repository to any directory and use it with apidoc's `template` optio
 ```shell
 git clone https://github.com/jodacame/apidocjs-template-dark-Slate-Inspiration-.git
 cd yourproject
-apidoc --template ../apidocjs-template-dark-Slate-Inspiration-
+apidoc --template ../apidocjs-template-dark-Slate-Inspiration-/template/
 ```
 
 - Do not support api version
